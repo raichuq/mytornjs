@@ -7,6 +7,8 @@
 // @match        https://www.torn.com/*
 // @run-at       document-start
 // @grant        none
+// @updateURL    	https://github.com/raichuq/mytornjs/raw/refs/heads/main/TUO.user.js
+// @downloadURL  	https://github.com/raichuq/mytornjs/raw/refs/heads/main/TUO.user.js
 // ==/UserScript==
 
 (function() {
